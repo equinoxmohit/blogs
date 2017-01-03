@@ -1,0 +1,25 @@
+# Site settings
+title: Mohit's Blog
+header-img: img/home-bg.jpg
+email: mohit.paudel1996@gmail.com
+copyright_name: Equinox Mohit's Site
+description: "A simple blog site where I write about what I feel on different topics which may be personal or anything else!"
+baseurl: ""
+url: "https://equinoxmohit.github.io"
+twitter_username: mohitpaudel
+github_username:  equinoxmohit
+facebook_username:  mohitpaudel
+email_username: mohit.paudel1996@gmail.com
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+# google_tracking_id:
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
