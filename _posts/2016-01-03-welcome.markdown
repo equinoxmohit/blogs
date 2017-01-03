@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Just a sample post"
-subtitle:   "No subtitles this time."
+subtitle:   "No subtitles this time..."
 date:       2016-01-03 15:38:00
 author:     "Mohit Paudel"
 header-img: "img/post-bg-01.jpg"
