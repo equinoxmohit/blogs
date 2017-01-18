@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "Just a sample post"
-subtitle:   "No subtitles this time..."
-date:       2016-01-03 15:38:00
+title:      "You are lucky..."
+subtitle:   "When GOD put me through all that shit, I never asked 'Why me?' What I always said was, 'Try me'."
+date:       2017-01-19 01:33:00
 author:     "Mohit Paudel"
 header-img: "img/post-bg-01.jpg"
 ---
