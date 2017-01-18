@@ -4,7 +4,7 @@ title:      "You are lucky..."
 subtitle:   "When GOD put me through all that shit, I never asked 'Why me?' What I always said was, 'Try me'."
 date:       2017-01-19 01:33:00
 author:     "Mohit Paudel"
-header-img: "img/2966.jpg"
+header-img: "img/post-bg-05.jpg"
 ---
 
 <p>It is 12:44 in the morning and I don’t feel like sleeping. There were those time in my life where I felt really low and I felt like I had nothing left in me. Maybe it was the side effect of the medicines and injections. The doctors also used to say the same. I do not like to feel this way. I am a happy man. A very positive man but then I don’t really know why I am feeling this way. I feel really low. I don’t feel like doing anything. I am just so pissed off at this moment for no reason at all. I don’t have any reason to be pissed off about.
